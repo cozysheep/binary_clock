@@ -4,4 +4,4 @@ Hey y'all! This is a binary clock I made in HTML, JS and CSS. It's very simple a
 Preview:
 
 
-![alt text](https://github.com/cozysheep/binary_clock/blob/main/Screenshot%202022-09-25%20at%204.16.23%20PM.png)
+![alt text](https://github.com/cozysheep/binary_clock/blob/main/Screenshot%202022-09-25%20at%204.35.04%20PM.png)
